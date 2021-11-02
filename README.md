@@ -12,8 +12,9 @@ def about_me():
     hobbys = ["soccer", "movies/series", "ctf", "gaming"]
     course = "cyberSecurity"
     favorite_language = "python"
-    languages = {german: mother-tongue, french: basic, 
-                chinese: bad, croatian: fluent, english: fluent}  
+    languages = {"german": "mother-tongue", "french": "basic", 
+                "chinese": "bad", "croatian": "fluent", 
+                "english": "fluent"}  
 
     end = study(course)[1]
     if study(course)[0] == "success":
