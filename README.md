@@ -1,4 +1,4 @@
-# //Hello @all :octocat:
+# /hello :octocat:
 
 
 ```python
@@ -8,7 +8,7 @@ def about_me():
 
     name = "Deniel Balic"
     placeOfBirth = "Albstadt"
-    home = 0x4f470d0a :stuck_out_tongue_winking_eye:
+    home = 0x4f470d0a 
     hobbys = ["soccer", "movies/series", "ctf", "gaming"]
     course = "cyberSecurity"
     favorite_language = "python"
@@ -21,7 +21,6 @@ def about_me():
 
     while not studying:
         do = random.choice(hobbys)
-
-
 ```
-
+***
+:trollface: __still working on this page__ :trollface:
