@@ -9,7 +9,7 @@ def about_me():
     name = "Deniel Balic"
     placeOfBirth = "Albstadt"
     home = 0x4f470d0a 
-    hobbys = ["soccer", "movies/series", "ctf", "gaming"]
+    hobbies = ["soccer", "movies/series", "ctf", "gaming"]
     course = "cyberSecurity"
     favorite_language = "python"
     languages = {"german": "mother-tongue", "french": "basic", 
@@ -21,7 +21,7 @@ def about_me():
         print(end)  # 2023
 
     while not studying:
-        do = random.choice(hobbys)
+        do = random.choice(hobbies)
 ```
 ***
 :trollface: __still working on this page__ :trollface:
